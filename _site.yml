@@ -1,1 +1,9 @@
-
+name: "Studweb"
+output.dir: "."
+navbar:
+  title: "Studweb"
+  local:
+    -text:"Home"
+    href: index.html
+    -text:"About Me"
+    href: about.html
